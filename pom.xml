@@ -22,7 +22,7 @@
     		<sonar.jacoco.reportPath>${project.basedir}/../target/jacoco.exec</sonar.jacoco.reportPath>
     		<sonar.language>java</sonar.language>
 		 <sonar.host.url>http://13.40.190.224:9000/</sonar.host.url>
-                <sonar.login>squ_8dd47c816ec413f132123a7522a80b6076d9dcef</sonar.login>
+                <sonar.login>sqa_9aef09d1c0a82b508e83bb851f98836fe7e89aef</sonar.login>
 		
 	</properties>
 
