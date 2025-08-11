@@ -21,7 +21,7 @@
     		<sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
     		<sonar.jacoco.reportPath>${project.basedir}/../target/jacoco.exec</sonar.jacoco.reportPath>
     		<sonar.language>java</sonar.language>
-		 <sonar.host.url>http://13.40.190.224:9000/</sonar.host.url>
+		 <sonar.host.url>http://18.130.84.204:9000/</sonar.host.url>
                 <sonar.login>sqa_9aef09d1c0a82b508e83bb851f98836fe7e89aef</sonar.login>
 		
 	</properties>
@@ -122,11 +122,11 @@
 	 <distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://18.169.171.88:8081/repository/RBS-Maven-App-release/</url>
+            <url>http://13.41.241.126:8081/repository/RBS-Maven-App-release/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://18.169.171.88:8081/repository/RBS-maven-app-snapshot/</url>
+            <url>http://13.41.241.126:8081/repository/RBS-maven-app-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
 
