@@ -121,11 +121,11 @@
 
 	 <distributionManagement>
         <repository>
-            <id>RBS-Maven-App-release</id>
+            <id>maven-releases</id>
             <url>http://52.213.60.189:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
-            <id>RBS-maven-app-snapshot</id>
+            <id>maven-snapshots</id>
             <url>http://52.213.60.189:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
